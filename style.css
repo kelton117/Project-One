@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 400px;
+    height: 480px;
+    background-color: rgba(255,255,255,.7);
+    font-family: fantasy;
+}
+
+
+#title {
+    font-size: 30px;
+}
+
+#year {
+    font-size: 24px;
+}
+
+#genre {
+    font-size: 24px;
+}
+
+#director {
+    font-size: 24px;
+}
+
+#rated {
+    font-size: 24px;
+}
+
+#plot {
+    font-size: 24px
+}
+
+td {
+    font-size: 18px;
+}
