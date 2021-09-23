@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
 }
-
+html, body {
+    height: 100%;
+}
 body {
     margin: 0;
     font-family: Helvetica;
@@ -55,6 +57,7 @@ td {
 
 input[type=text] {
     width: 70%;
+    height: 79%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;   
@@ -63,8 +66,14 @@ input[type=text] {
     background-color:rgba(56, 54, 167, 0.432)
   }
 
-input[type=submit] {
+button[type=submit] {
     width: 20%;
-    height: 75%;
+    height: 72%;
     background-color:darkred
+    
+}
+
+i {
+    font-size: 24px;
+    
 }
