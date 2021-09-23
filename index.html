@@ -8,6 +8,7 @@
     <script defer src="script.js"></script>
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="./style.css">
+    
     <title>Project One</title>
 </head>
 <body>
@@ -17,9 +18,14 @@
 <div class="container">   
     
     <h1>Movie Informer</h1>
-<table>
+    <form>
+        <input type="text" placeholder="e.g. Blade "/>
+        <input type="submit" value="Get info here"/>
+      </form>
+
+      <table>
   <tr>
-    <td>Title</td>
+      <td>Title</td>
   <td id="title"></td>
   </tr>
   <tr>
@@ -44,10 +50,6 @@
   </tr>
 </table>
 
-<form>
-    <input type="text" placeholder="e.g. Blade "/>
-    <input type="submit" value="Get Movie Info" />
-  </form>
 </div> 
 </body>
 </html>
