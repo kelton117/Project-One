@@ -68,12 +68,12 @@ input[type=text] {
 
 button[type=submit] {
     width: 20%;
-    height: 72%;
-    background-color:darkred
-    
+    height: 79%;
+    background-color:darkred;
+    margin: 8px 0; 
 }
 
 i {
-    font-size: 24px;
+    font-size: 23px;
     
 }
