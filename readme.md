@@ -14,8 +14,8 @@ Well, that is where the Movie Informer App comes in handy. With a response time 
 - Lenovo Yoga
 
 ## Screenshots
-<img src="/images/BaseProject1SS.png" style=" width:100px ; height:100px " />
-<img src="/images/Project1SS.png" style=" width:100px ; height:100px " />
+<img src="/images/BaseProject1SS.png" style=" width:200px ; height:200px " />
+<img src="/images/Project1SS.png" style=" width:200px ; height:200px " />
 
 ## Getting Started
 [Click here](https://movieproject1.netlify.app/) to find info on any movie you can think of!
