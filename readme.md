@@ -18,7 +18,7 @@ Well, that is where the Movie Informer App comes in handy. With a response time 
 <img src="/images/Project1SS.png" style=" width:100px ; height:100px " />
 
 ## Getting Started
-
+[Click here](https://movieproject1.netlify.app/) to find info on any movie you can think of!
 
 ## Future Enhancements
 In the future I would like to implement a feature that when activated would play a famous quote from the movie and also add a button in to play the theme song for the movie. I would also like to replace the background image from being the poster to playing the trailer or highlights from the movie.
